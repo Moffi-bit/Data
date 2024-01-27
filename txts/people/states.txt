@@ -1,0 +1,435 @@
+Mayo
+Kerala
+Alberta
+Castilla la Mancha
+Hedmark
+خوزستان
+Queensland
+Danmark
+Southern Savonia
+Victoria
+Obwalden
+آذربایجان غربی
+Indre-et-Loire
+Pirot
+Lvivska
+Chandigarh
+Northland
+اصفهان
+South Bačka
+Berlin
+Tripura
+سمنان
+Nord-Trøndelag
+Zaporizka
+South Karelia
+Overijssel
+Drenthe
+لرستان
+Jura
+Cataluña
+Tasmania
+Manitoba
+Brandenburg
+Lothian
+Lapland
+County Tyrone
+Indiana
+Raška
+Braničevo
+Nordjylland
+Ceará
+همدان
+Roraima
+Yukon
+Auckland
+Seine-Saint-Denis
+گلستان
+Bas-Rhin
+Sinaloa
+Veracruz
+New York
+Kansas
+Carlow
+Melilla
+Hersonska
+Waikato
+Florida
+Kildare
+Northwest Territories
+North Bačka
+Zeeland
+Nova Scotia
+Tamaulipas
+Ardèche
+Assam
+Zacatecas
+Charente
+Genève
+Muş
+Georgia
+Vestfold
+Daman and Diu
+Powys
+Päijät-Häme
+País Vasco
+Cornwall
+Var
+Hampshire
+Saskatchewan
+Acre
+Northern Ostrobothnia
+Manawatu-Wanganui
+Sogn og Fjordane
+Côte-D'Or
+Schleswig-Holstein
+Glarus
+New South Wales
+Jalisco
+Newfoundland and Labrador
+Alagoas
+Cantal
+Bihar
+Alaska
+Hovedstaden
+Comunidad de Madrid
+Nordland
+Delhi
+Wicklow
+Midtjylland
+Hessen
+Northern Savonia
+Utrecht
+Cantabria
+Flevoland
+Australian Capital Territory
+Nidwalden
+Comunidad Valenciana
+Oise
+Nelson
+Bern
+سیستان و بلوچستان
+Pčinja
+Bremen
+Limburg
+Peć
+Thüringen
+Pomoravlje
+Surrey
+Derbyshire
+Hawke'S Bay
+Maine
+مرکزی
+Bahia
+Balıkesir
+Estado de Mexico
+Odisha
+Karnataka
+Ordu
+خراسان جنوبی
+Rheinland-Pfalz
+Moravica
+Canterbury
+Mecklenburg-Vorpommern
+Región de Murcia
+چهارمحال و بختیاری
+Nièvre
+Pernambuco
+Cumbria
+Dnipropetrovska
+Gelderland
+Yucatan
+Sachsen
+Waterford
+Bayern
+Telemark
+Zug
+Schaffhausen
+Graubünden
+Minas Gerais
+Extremadura
+Eure-et-Loir
+Sjælland
+Jammu and Kashmir
+Bor
+Nordrhein-Westfalen
+Amazonas
+Marlborough
+Erzurum
+Oregon
+Hmelnicka
+Zuid-Holland
+Appenzell Ausserrhoden
+Alabama
+Southland
+Rasina
+کرمانشاه
+Wiltshire
+Cavan
+Chiapas
+West Bačka
+Rondônia
+South Australia
+Paraíba
+New Mexico
+Shropshire
+West Yorkshire
+هرمزگان
+Aragón
+Mizoram
+Ternopilska
+Sikkim
+Zürich
+Donegal
+Gisborne
+Luganska
+Wellington
+Distrito Federal
+Maranhão
+Kymenlaakso
+Nebraska
+Akershus
+Clare
+Schwyz
+Morbihan
+Fribourg
+Lakshadweep
+کهگیلویه و بویراحمد
+Canarias
+Cork City
+Western Australia
+Central Banat
+قزوین
+فارس
+Hidalgo
+Dún Laoghaire–Rathdown
+Toplica
+Zaječar
+Taranaki
+Mid Glamorgan
+Aguascalientes
+Kirovogradska
+Merseyside
+Avtonomna Respublika Krim
+البرز
+Dublin City
+Arunachal Pradesh
+Syddanmark
+Tavastia Proper
+Jablanica
+Prince Edward Island
+Description
+Norfolk
+Ağrı
+Goiás
+Iowa
+Uttar Pradesh
+Ciudad de Mexico
+Manche
+Afyonkarahisar
+County Armagh
+Guanajuato
+Leitrim
+Ontario
+Aargau
+Sonora
+Kırıkkale
+Buskerud
+Bay of Plenty
+بوشهر
+زنجان
+Sarthe
+Burdur
+Punjab
+Rogaland
+Northumberland
+Ceuta
+Bergen
+Rio de Janeiro
+Suffolk
+Central Ostrobothnia
+ایلام
+Martinique
+Yonne
+Arkansas
+Kosovo-Pomoravlje
+Dorset
+Westmeath
+Srem
+Manisa
+Monaghan
+Hamburg
+New Brunswick
+Uttarakhand
+Gümüşhane
+Rio Grande do Sul
+Nunavut
+Manipur
+Puebla
+Telangana
+Mačva
+Minnesota
+Gard
+Oppland
+Aydın
+Donecka
+Rajasthan
+Baden-Württemberg
+Creuse
+Niedersachsen
+Bilecik
+Zakarpatska
+Essonne
+Northern Territory
+Galway City
+Ardennes
+Offaly
+Galicia
+Puducherry
+Uusimaa
+Åland
+Aude
+Basel-Stadt
+Kiyivska
+Bursa
+Central Finland
+Colima
+Gironde
+Goa
+Noord-Holland
+Coahuila
+Zhitomirska
+County Antrim
+Massachusetts
+Jharkhand
+Humberside
+South Banat
+Andalucía
+Missouri
+Sør-Trøndelag
+South Dakota
+یزد
+Madhya Pradesh
+Hautes-Pyrénées
+Şırnak
+Dadra and Nagar Haveli
+تهران
+Santa Catarina
+North Carolina
+Vinnicka
+Amapá
+Castilla y León
+Tunceli
+Meghalaya
+British Columbia
+Ariège
+Mato Grosso
+Savoie
+North Karelia
+Aveyron
+Uri
+Rutland
+Elazığ
+Paraná
+Tipperary
+Bolu
+Espírito Santo
+La Rioja
+Aust-Agder
+Washington
+Vermont
+Amasya
+Tocantins
+Sergipe
+Haut-Rhin
+Sachsen-Anhalt
+Vest-Agder
+Ticino
+خراسان رضوی
+Poltavska
+Staffordshire
+Herefordshire
+Michoacan
+Tlaxcala
+Vaud
+Denizli
+Louisiana
+Pennsylvania
+Isle of Wight
+Haryana
+Orne
+Bartın
+North Banat
+San Luis Potosí
+Fingal
+Loir-et-Cher
+Harkivska
+Odeska
+Gaziantep
+Hertfordshire
+Konya
+Avon
+Illinois
+Chihuahua
+آذربایجان شرقی
+Mikolayivska
+Tabasco
+Yozgat
+Wyoming
+Doubs
+West Coast
+Fife
+Muğla
+Batman
+Durango
+South Carolina
+Longford
+Haute-Garonne
+Seine-et-Marne
+Sligo
+Wexford
+Idaho
+Tekirdağ
+Pirkanmaa
+Val-de-Marne
+Volinska
+Warwickshire
+Finistère
+South Yorkshire
+Saarland
+Colorado
+Hordaland
+Otago
+Québec
+Chhattisgarh
+Rhône
+Gujarat
+Laois
+Møre og Romsdal
+Vaucluse
+Hawaii
+Neuchâtel
+گیلان
+Nišava
+Podunavlje
+Troms - Romsa
+Gloucestershire
+Tennessee
+Çankırı
+Šumadija
+Devon
+Baja California Sur
+Roscommon
+Luzern
+مازندران
+Worcestershire
+Virginia
+Seine-Maritime
+Finland Proper
+Çanakkale
+St. Gallen
+Thurgau
+Louth
+Valais
+Kent
+Grampian
