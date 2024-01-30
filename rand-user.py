@@ -1,16 +1,16 @@
 import requests
 import os
+import argparse
 
 """
 Collect a variety of data from: https://randomuser.me/api/
 """
 
-
-def send_requests():
+def send_requests(n):
     resp_contents = []
     url = "https://randomuser.me/api/"
 
-    for _ in range(1000):
+    for _ in range(n):
         resp = requests.get(url)
 
         if resp.status_code == 200:
@@ -33,7 +33,7 @@ def organize_requests(resps, path):
     phones = ""
     dates = ""
     coordinates = ""
-    csv_lines = ""
+    csv_lines = "name,street,city,state,country,email,username,password,phone,date,coordinates\n"
 
     for content in resps:
         content = content["results"][0]
@@ -53,7 +53,7 @@ def organize_requests(resps, path):
         password_content = login["password"]
         phone_content = content["phone"]
         date_content = content["registered"]["date"]
-        coord_content = coord["latitude"] + ", " + coord["longitude"]
+        coord_content = coord["latitude"] + "$" + coord["longitude"]
 
         names = handle_data(names, name_content)
         streets = handle_data(streets, street_content)
@@ -67,7 +67,7 @@ def organize_requests(resps, path):
         dates = handle_data(dates, date_content)
         coordinates = handle_data(coordinates, coord_content)
 
-        csv_lines += "{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}\n".format(name_content, street_content, city_content, state_content, country_content, email_content, username_content, password_content, phone_content, date_content, coord_content)
+        csv_lines += "{},{},{},{},{},{},{},{},{},{},{}\n".format(name_content, street_content, city_content, state_content, country_content, email_content, username_content, password_content, phone_content, date_content, coord_content)
 
     write_data(names, path + "names")
     write_data(streets, path + "streets")
@@ -82,17 +82,14 @@ def organize_requests(resps, path):
     write_data(coordinates, path + "coordinates")
 
     global ending
-    ending = ".csv"
+    ending = "csv"
 
-    path = "./csvs/people/"
-
-    if not os.path.exists(path):
-        os.mkdir(path)
+    path = create_folders_needed()
 
     write_data(csv_lines, path + "people")
 
 def write_data(data, path):
-    with open(path + ending, "a", encoding="utf-8") as f:
+    with open(path + "." + ending, "a", encoding="utf-8") as f:
         f.write(data)
 
 def handle_data(data, new_data):
@@ -101,24 +98,33 @@ def handle_data(data, new_data):
     
     return data
 
+def create_folders_needed():
+    root = f"./{ending}s/"
+
+    if not os.path.exists(root):
+        os.mkdir(root)
+
+    root += "people/"
+
+    if not os.path.exists(root):
+        os.mkdir(root)
+    
+    return root
+
 def main():
-    txt = "./txts/people/"
+    path = create_folders_needed()
 
-    if not os.path.exists("./txts/"):
-        os.mkdir("./txts/")
-
-    if not os.path.exists ("./csvs/"):
-        os.mkdir("./csvs/") 
-
-    if not os.path.exists(txt):
-        os.mkdir(txt)
-
-    resps = send_requests()
-    organize_requests(resps, txt)
+    resps = send_requests(args.num)
+    organize_requests(resps, path)
 
     print("Done!")
 
 
 if __name__ == "__main__":
-    ending = ".txt"
+    ending = "txt"
+
+    parser = argparse.ArgumentParser(description='Collect dummy data for "people".')
+    parser.add_argument('-n', '--num', type=int, help='the amount of people dummy data you want')
+    args = parser.parse_args()
+    
     main()

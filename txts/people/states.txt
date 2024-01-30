@@ -1,1334 +1,561 @@
-Mayo
-Kerala
-Alberta
-Castilla la Mancha
-Hedmark
-خوزستان
-Queensland
-Danmark
-Southern Savonia
-Victoria
-Obwalden
-آذربایجان غربی
-Indre-et-Loire
-Pirot
-Lvivska
-Chandigarh
-Northland
-اصفهان
-South Bačka
-Berlin
-Tripura
-سمنان
-Nord-Trøndelag
-Zaporizka
-South Karelia
-Overijssel
-Drenthe
-لرستان
-Jura
-Cataluña
-Tasmania
-Manitoba
-Brandenburg
-Lothian
-Lapland
-County Tyrone
-Indiana
-Raška
-Braničevo
-Nordjylland
-Ceará
-همدان
-Roraima
-Yukon
-Auckland
-Seine-Saint-Denis
-گلستان
-Bas-Rhin
-Sinaloa
-Veracruz
-New York
-Kansas
-Carlow
-Melilla
-Hersonska
-Waikato
-Florida
-Kildare
-Northwest Territories
-North Bačka
-Zeeland
-Nova Scotia
-Tamaulipas
-Ardèche
-Assam
-Zacatecas
-Charente
-Genève
-Muş
-Georgia
-Vestfold
-Daman and Diu
-Powys
-Päijät-Häme
-País Vasco
-Cornwall
-Var
-Hampshire
-Saskatchewan
-Acre
-Northern Ostrobothnia
-Manawatu-Wanganui
-Sogn og Fjordane
-Côte-D'Or
-Schleswig-Holstein
-Glarus
-New South Wales
-Jalisco
-Newfoundland and Labrador
-Alagoas
-Cantal
-Bihar
-Alaska
-Hovedstaden
-Comunidad de Madrid
-Nordland
-Delhi
-Wicklow
-Midtjylland
-Hessen
-Northern Savonia
-Utrecht
-Cantabria
-Flevoland
-Australian Capital Territory
-Nidwalden
-Comunidad Valenciana
-Oise
-Nelson
-Bern
-سیستان و بلوچستان
-Pčinja
-Bremen
-Limburg
-Peć
-Thüringen
-Pomoravlje
-Surrey
-Derbyshire
-Hawke'S Bay
-Maine
-مرکزی
-Bahia
-Balıkesir
-Estado de Mexico
-Odisha
-Karnataka
-Ordu
-خراسان جنوبی
-Rheinland-Pfalz
-Moravica
-Canterbury
-Mecklenburg-Vorpommern
-Región de Murcia
-چهارمحال و بختیاری
-Nièvre
-Pernambuco
-Cumbria
-Dnipropetrovska
-Gelderland
-Yucatan
-Sachsen
-Waterford
-Bayern
-Telemark
-Zug
-Schaffhausen
-Graubünden
-Minas Gerais
-Extremadura
-Eure-et-Loir
-Sjælland
-Jammu and Kashmir
-Bor
-Nordrhein-Westfalen
-Amazonas
-Marlborough
-Erzurum
-Oregon
-Hmelnicka
-Zuid-Holland
-Appenzell Ausserrhoden
-Alabama
-Southland
-Rasina
-کرمانشاه
-Wiltshire
-Cavan
-Chiapas
-West Bačka
-Rondônia
-South Australia
-Paraíba
-New Mexico
-Shropshire
-West Yorkshire
-هرمزگان
-Aragón
-Mizoram
-Ternopilska
-Sikkim
-Zürich
-Donegal
-Gisborne
-Luganska
-Wellington
-Distrito Federal
-Maranhão
-Kymenlaakso
-Nebraska
-Akershus
-Clare
-Schwyz
-Morbihan
-Fribourg
-Lakshadweep
-کهگیلویه و بویراحمد
-Canarias
-Cork City
-Western Australia
-Central Banat
-قزوین
-فارس
-Hidalgo
-Dún Laoghaire–Rathdown
-Toplica
-Zaječar
-Taranaki
-Mid Glamorgan
-Aguascalientes
-Kirovogradska
-Merseyside
-Avtonomna Respublika Krim
-البرز
-Dublin City
-Arunachal Pradesh
-Syddanmark
-Tavastia Proper
-Jablanica
-Prince Edward Island
-Description
-Norfolk
-Ağrı
-Goiás
-Iowa
-Uttar Pradesh
-Ciudad de Mexico
-Manche
-Afyonkarahisar
-County Armagh
-Guanajuato
-Leitrim
-Ontario
-Aargau
-Sonora
-Kırıkkale
-Buskerud
-Bay of Plenty
-بوشهر
-زنجان
-Sarthe
-Burdur
-Punjab
-Rogaland
-Northumberland
-Ceuta
-Bergen
-Rio de Janeiro
-Suffolk
-Central Ostrobothnia
-ایلام
-Martinique
-Yonne
-Arkansas
-Kosovo-Pomoravlje
-Dorset
-Westmeath
-Srem
-Manisa
-Monaghan
-Hamburg
-New Brunswick
-Uttarakhand
-Gümüşhane
-Rio Grande do Sul
-Nunavut
-Manipur
-Puebla
-Telangana
-Mačva
-Minnesota
-Gard
-Oppland
-Aydın
-Donecka
-Rajasthan
-Baden-Württemberg
-Creuse
-Niedersachsen
-Bilecik
-Zakarpatska
-Essonne
-Northern Territory
-Galway City
-Ardennes
-Offaly
-Galicia
-Puducherry
-Uusimaa
-Åland
-Aude
-Basel-Stadt
-Kiyivska
-Bursa
-Central Finland
-Colima
-Gironde
-Goa
-Noord-Holland
-Coahuila
-Zhitomirska
-County Antrim
-Massachusetts
-Jharkhand
-Humberside
-South Banat
-Andalucía
-Missouri
-Sør-Trøndelag
-South Dakota
-یزد
-Madhya Pradesh
-Hautes-Pyrénées
-Şırnak
 Dadra and Nagar Haveli
-تهران
-Santa Catarina
-North Carolina
-Vinnicka
-Amapá
-Castilla y León
-Tunceli
-Meghalaya
-British Columbia
-Ariège
-Mato Grosso
-Savoie
-North Karelia
-Aveyron
-Uri
-Rutland
-Elazığ
-Paraná
-Tipperary
-Bolu
-Espírito Santo
-La Rioja
-Aust-Agder
-Washington
-Vermont
-Amasya
-Tocantins
-Sergipe
-Haut-Rhin
-Sachsen-Anhalt
-Vest-Agder
-Ticino
-خراسان رضوی
-Poltavska
-Staffordshire
-Herefordshire
-Michoacan
-Tlaxcala
-Vaud
-Denizli
-Louisiana
-Pennsylvania
-Isle of Wight
-Haryana
-Orne
-Bartın
-North Banat
-San Luis Potosí
-Fingal
-Loir-et-Cher
-Harkivska
-Odeska
-Gaziantep
-Hertfordshire
-Konya
-Avon
-Illinois
-Chihuahua
-آذربایجان شرقی
-Mikolayivska
-Tabasco
-Yozgat
-Wyoming
-Doubs
-West Coast
-Fife
-Muğla
-Batman
-Durango
-South Carolina
-Longford
-Haute-Garonne
-Seine-et-Marne
-Sligo
-Wexford
-Idaho
-Tekirdağ
-Pirkanmaa
-Val-de-Marne
-Volinska
-Warwickshire
-Finistère
-South Yorkshire
-Saarland
-Colorado
-Hordaland
-Otago
-Québec
-Chhattisgarh
-Rhône
-Gujarat
-Laois
-Møre og Romsdal
-Vaucluse
-Hawaii
-Neuchâtel
-گیلان
-Nišava
-Podunavlje
-Troms - Romsa
-Gloucestershire
-Tennessee
-Çankırı
-Šumadija
-Devon
-Baja California Sur
-Roscommon
-Luzern
-مازندران
-Worcestershire
-Virginia
-Seine-Maritime
-Finland Proper
-Çanakkale
-St. Gallen
-Thurgau
-Louth
-Valais
-Kent
-Grampian
-Kırklareli
-Central Ostrobothnia
-New Mexico
-Çankırı
-Chernivecka
-Ohio
-Nuevo Leon
-Westmeath
-Hessen
-Tripura
-Western Australia
-West Midlands
-Wexford
-Basel-Landschaft
-Northern Savonia
-Rivnenska
-Wiltshire
-Kolubara
-North Karelia
-Sachsen-Anhalt
-Victoria
-Srem
-Luzern
-Cheshire
-Kerala
-Marlborough
-Tamaulipas
-Queensland
-فارس
-Newfoundland and Labrador
-Waikato
-Raška
-Montana
-Midtjylland
-Bayern
-Zacatecas
-Nova Scotia
-Waterford
-Karabük
-Virginia
-Zuid-Holland
-Maine
-Seine-Saint-Denis
-Vest-Agder
-Central Banat
-Bihar
-Oslo
-Erzurum
-Utrecht
-Groningen
-Distrito Federal
-Åland
-Noord-Brabant
-Nordland
-Meghalaya
-Rasina
-Sligo
-Kirovogradska
-St. Gallen
-Sumska
-Manawatu-Wanganui
-Gloucestershire
-Maranhão
-Vaud
-Quintana Roo
-Louth
-Vermont
-Gisborne
-Saskatchewan
-Kütahya
-Finnmark - Finnmárku
-Kosovo
-Rio Grande do Norte
-Offaly
-Australian Capital Territory
-Toplica
-West Coast
-Jablanica
-Odeska
-Extremadura
-Oaxaca
-Loire-Atlantique
-Sør-Trøndelag
-Guadeloupe
-Bedfordshire
-New Brunswick
-Nevada
-خوزستان
-مازندران
-خراسان جنوبی
-Canarias
-Telangana
-Tasmania
-Ankara
-South Dakota
-Zaporizka
-Dún Laoghaire–Rathdown
-Nelson
-Tekirdağ
-Drenthe
-Volinska
-Guerrero
-Lvivska
-Eure-et-Loir
-Valais
-Northern Territory
-Friesland
-Gironde
-Moravica
-Campeche
-Syddanmark
-Acre
-Gers
-Isparta
-Estado de Mexico
-Goiás
-British Columbia
-South Australia
-Berkshire
-Andaman and Nicobar Islands
-Espírito Santo
-Illinois
-Nunavut
-Saarland
-County Antrim
-Queretaro
-گیلان
-Zürich
-Kilis
-Genève
-Prince Edward Island
-Kerry
-Mikolayivska
-Manipur
-Navarra
-Avtonomna Respublika Krim
-Tennessee
-Finland Proper
-Šumadija
-Shropshire
-San Luis Potosí
-Obwalden
-Bern
-Kildare
-Møre og Romsdal
-Yozgat
-Punjab
-Bay of Plenty
-Bayburt
-Yucatan
-Braničevo
-Pernambuco
-Aksaray
-Southern Savonia
-Maharashtra
-Ain
-Wellington
-Uusimaa
-آذربایجان شرقی
-اردبیل
-Haute-Garonne
-Taranaki
-Castilla la Mancha
-چهارمحال و بختیاری
-Durham
-Ceuta
-Kosovo-Pomoravlje
-Kars
-Appenzell Ausserrhoden
-Manisa
-کرمانشاه
-Donegal
-Alagoas
-Isle of Wight
-Lancashire
-ایلام
-Yukon
-Assam
-Gelderland
-Southland
-Sjælland
-کهگیلویه و بویراحمد
-Wicklow
-Powys
-Northern Ostrobothnia
-Sonora
-Baden-Württemberg
-Limerick
-Vestfold
-West Virginia
-Rio Grande do Sul
-Asturias
-Hovedstaden
-Roraima
-Mayo
-Aveyron
-Suffolk
-Samsun
-Piauí
-Schaffhausen
-Paraná
-Berlin
-Iowa
-Cornwall
-Bremen
-Hakkâri
-Jalisco
-County Fermanagh
-Buskerud
-Alpes-Maritimes
-Tyne and Wear
-Bor
-Ticino
-لرستان
-Haute-Savoie
-Oppland
-Cantabria
-Paraíba
-Otago
-Pirkanmaa
-Trabzon
-Thüringen
-Noord-Holland
-Nišava
-Thurgau
-South Dublin
-Muş
-Val-D'Oise
-Castilla y León
-Aust-Agder
-São Paulo
-Nidwalden
-County Tyrone
-Dadra and Nagar Haveli
-Basel-Stadt
-Ceará
-Haute-Saône
-Nordjylland
-Schwyz
-Mersin
-Aargau
-Peć
-کردستان
-Schleswig-Holstein
-Pirot
-Manitoba
-Goa
-Rhode Island
-Description
-Kırıkkale
-Washington
-Telemark
-South Carolina
-Cleveland
-Limburg
-Tamil Nadu
-Zeeland
-Aguascalientes
-Sinaloa
-Arkansas
-Comunidad Valenciana
-Bilecik
-North Dakota
-South Banat
-Zaječar
-Ternopilska
-Madhya Pradesh
-Päijät-Häme
-Kainuu
-Cork
-Danmark
-Arunachal Pradesh
-Rio de Janeiro
-Auckland
-Podunavlje
-Guanajuato
-Kosovska Mitrovica
-Baja California
-Zakarpatska
-Overijssel
-Connecticut
-Zhitomirska
-Rheinland-Pfalz
-Islas Baleares
-Morelos
-Hidalgo
-Aisne
-Cavan
-قزوین
-Essonne
-Mayotte
-Región de Murcia
-اصفهان
-Lot
-Niedersachsen
-Nagaland
-Fingal
-Luganska
 Northland
-Tipperary
-Clare
-Kentucky
-Doubs
-Canterbury
-Haryana
-Prizren
-Troms - Romsa
-New Jersey
-Mato Grosso do Sul
-Haute-Vienne
-Nebraska
-Nayarit
-Artvin
-New South Wales
-یزد
-آذربایجان غربی
-Nordrhein-Westfalen
-هرمزگان
-Zug
-North Bačka
-Solothurn
-South Bačka
-Alberta
-Québec
-Çanakkale
-Yonne
-Gümüşhane
-Bingöl
-Delhi
-Harkivska
-سمنان
-Uttarakhand
-Giresun
-Sogn og Fjordane
-Minas Gerais
-خراسان شمالی
-Hersonska
-Niğde
-Longford
-Avon
-Kansas
-Hawke'S Bay
-Louisiana
-Mačva
-Roscommon
-خراسان رضوی
-Wisconsin
-Hamburg
-Daman and Diu
-Ardèche
-Indre
-Hordaland
-Veracruz
-Sergipe
-گلستان
-Pčinja
-Nord-Trøndelag
-Sikkim
-Bahia
-Kahramanmaraş
-البرز
-Melilla
-Konya
-Strathclyde
-Lapland
-Ontario
-Lakshadweep
-Laois
-Mississippi
-Seine-Maritime
-Amapá
-Bergen
-County Armagh
-Oklahoma
-Galicia
-Wyoming
-Malatya
-Georgia
-Hampshire
-Akershus
-Allier
-Andalucía
-North Banat
-Northwest Territories
-Rondônia
-Pará
-Jura
-Herefordshire
-Satakunta
-Odisha
-Uşak
-سیستان و بلوچستان
-Adana
-Uri
-Chihuahua
-Humberside
-Côte-D'Or
-Ariège
-Aube
-Cataluña
-Rogaland
-Clwyd
 Guyane
-Edirne
-Northamptonshire
-Fribourg
-Fife
-Mecklenburg-Vorpommern
-Puebla
-Somerset
-Carlow
-Şanlıurfa
-Utah
-País Vasco
-Bolu
-Yalova
-Van
-بوشهر
-Central Finland
-Appenzell Innerrhoden
-Highlands and Islands
-قم
-Maine-et-Loire
-تهران
-Leitrim
-Uttar Pradesh
-Texas
-Şırnak
-East Sussex
-Amazonas
-Vaucluse
-Flevoland
-Hmelnicka
-Tlaxcala
-Aragón
-Dnipropetrovska
-Haute-Corse
-Comunidad de Madrid
-New Hampshire
-Leicestershire
-Southern Ostrobothnia
-Oregon
-Kymenlaakso
-Chhattisgarh
-Michigan
-Drôme
-Ordu
-Rutland
-Minnesota
-Amasya
-Description
-Mayo
-Florida
-یزد
-Uri
-Noord-Holland
-Hawke'S Bay
-Kainuu
-Northern Territory
-Midtjylland
-Finland Proper
-Rivnenska
-Mayenne
-Dnipropetrovska
-هرمزگان
-Trøndelag
-Iowa
-Somerset
-Sjælland
-Ceuta
-Flevoland
-Auckland
-Nelson
-Bay of Plenty
-Raška
-Durham
-Central Ostrobothnia
-Wellington
-Colorado
-Zaječar
-Rheinland-Pfalz
+Bilecik
+Nebraska
+Yvelines
+West Sussex
+Charente
 Nordjylland
-Utrecht
+Donegal
+Moravica
+Ostrobothnia
+آذربایجان شرقی
+Vinnicka
+Uusimaa
+Zeeland
+Groningen
+Thurgau
+Yonne
+Nova Scotia
+Schleswig-Holstein
+Sør-Trøndelag
+Kiyivska
+Zaječar
+Wexford
+Midtjylland
+Queensland
+Ontario
+Longford
+Asturias
+Maine-et-Loire
+Sjælland
+Oise
+Cork
+Guanajuato
+Meath
+St. Gallen
+Avon
+Odisha
+Mayo
+Bergen
+Luganska
+Tamil Nadu
+New Brunswick
+Kilkenny
+Southern Savonia
+چهارمحال و بختیاری
+Paraná
+Samsun
+Wellington
+Manawatu-Wanganui
+Tamaulipas
+Pennsylvania
+Hordaland
+Mizoram
+Telangana
 Hovedstaden
-Buskerud
-Zürich
-Meghalaya
-Lapland
-Mato Grosso
+Utrecht
+Akershus
+Limburg
+Mato Grosso do Sul
+Highlands and Islands
+Marlborough
+Washington
+Mississippi
+Estado de Mexico
+Central Ostrobothnia
+Delhi
+Zuid-Holland
+Valais
+Sonora
+Pyrénées-Atlantiques
+Ariège
+Connecticut
+Flevoland
+Yukon
+Çorum
+Bayburt
+Finland Proper
+Clare
+Maranhão
+Luzern
+Massachusetts
+Jablanica
+Northern Territory
+یزد
+Syddanmark
+Distrito Federal
+سیستان و بلوچستان
+Oklahoma
+Glarus
+South Karelia
+Nuevo Leon
+Pas-de-Calais
+Telemark
+Hamburg
+Tasmania
+Rhode Island
+Alberta
+Ohio
+Haryana
+Aragón
+North Yorkshire
+خراسان جنوبی
+Bingöl
+Espírito Santo
+Şırnak
+Dún Laoghaire–Rathdown
+Ankara
+Aust-Agder
+Noord-Holland
+Bremen
+Comunidad de Madrid
+Cherkaska
+Northern Ostrobothnia
+Puy-de-Dôme
+Chandigarh
+Seine-Saint-Denis
+Castilla la Mancha
+Karaman
+مازندران
+Adıyaman
+Wisconsin
+Danmark
+Şanlıurfa
+Australian Capital Territory
+گلستان
+Amazonas
+Päijät-Häme
+Tarn-et-Garonne
+Dordogne
+Victoria
+Pirkanmaa
+Alaska
+Bayern
+Friesland
+Comunidad Valenciana
+Cumbria
+Yucatan
+Tokat
+Jalisco
+Pomoravlje
+Galicia
+Canterbury
+Muğla
+Doubs
+Central Banat
+Monaghan
+Chhattisgarh
+Waikato
+Kerry
+البرز
+Obwalden
+Thüringen
+Durango
+Minas Gerais
+Mardin
+Sergipe
+Vendée
+Peć
+Uri
+Creuse
+North Carolina
+Queretaro
+Iowa
+Troms - Romsa
+Nièvre
+Orne
+County Down
+Nordrhein-Westfalen
+Neuchâtel
+تهران
+Northwest Territories
+Southland
+Cantabria
+Uttarakhand
+Haute-Corse
+Newfoundland and Labrador
+Wiltshire
+Guerrero
+Kainuu
+همدان
+Borders
+Gelderland
+Punjab
+Nagaland
+Bartın
+Saarland
+Sikkim
+Surrey
+Bihar
+Rheinland-Pfalz
+سمنان
+Šumadija
+فارس
+Savoie
+Suffolk
+Chihuahua
+Braničevo
+Ceuta
+Goiás
+Aguascalientes
+Hatay
+Grampian
+Chernivecka
+Rajasthan
+Uttar Pradesh
+Castilla y León
+Canarias
+Rivnenska
+Baja California
+Cataluña
+Pará
+Vest-Agder
+قزوین
+Galway
+Volinska
+Trabzon
+Melilla
+Puebla
+South Banat
+Baden-Württemberg
+Charente-Maritime
+Saskatchewan
+Seine-et-Marne
 Andalucía
 New South Wales
-Mississippi
-Humberside
-خراسان رضوی
-Rogaland
-کهگیلویه و بویراحمد
-Danmark
-Zaporizka
-Podunavlje
-Ohio
-Western Australia
-Massachusetts
-Bedfordshire
-Manitoba
-گیلان
-São Paulo
-North Carolina
-Saskatchewan
-Rondônia
-Bern
-Tunceli
-Tokat
-آذربایجان غربی
-Harkivska
-Finistère
-Niğde
-Goa
-Vestfold
-Dún Laoghaire–Rathdown
-Pará
-Alberta
-Central Finland
-Lozère
-Bayburt
-Zug
-Solothurn
-Zuid-Holland
-Clare
-Var
-Kilis
-Northwest Territories
-South Bačka
-Odisha
-Saarland
-Connecticut
-Nordrhein-Westfalen
-Tayside
-Trabzon
-North Dakota
-Cambridgeshire
-Newfoundland and Labrador
-Central Banat
-Victoria
-Haryana
-Lancashire
-Prizren
-Artvin
-Amapá
-Ciudad de Mexico
-Goiás
-Manipur
-Sachsen
-Mikolayivska
-البرز
-Jammu and Kashmir
-Amasya
-Arkansas
-Northland
-Noord-Brabant
-Mačva
-Asturias
-چهارمحال و بختیاری
-Taranaki
-Rize
-Limburg
-Manisa
-Tamaulipas
-Greater Manchester
-Pčinja
-West Midlands
-Prince Edward Island
-Groningen
-Morelos
-North Bačka
-کردستان
-Essex
-Sør-Trøndelag
-Charente
-Sligo
-Hessen
-Jablanica
-Jharkhand
-Ternopilska
-Toplica
-Ontario
-Oaxaca
-Manawatu-Wanganui
-همدان
-Grampian
-Nidwalden
-Puducherry
-Southland
-Chernivecka
-Tavastia Proper
-Durango
-Braničevo
-Australian Capital Territory
-Brandenburg
-Zakarpatska
-Rio de Janeiro
-Dumfries and Galloway
-Hordaland
-California
-Hamburg
-Meath
-Colima
-Delhi
-Graubünden
-Oxfordshire
-Lakshadweep
-Kerala
-Vendée
-Kiyivska
-Nova Scotia
-Şanlıurfa
-Québec
-Cantabria
-Daman and Diu
-Pirot
-اردبیل
-Schwyz
-فارس
-East Sussex
-Yukon
-Cork
-Møre og Romsdal
-Kolubara
-Burdur
-North Karelia
-Schleswig-Holstein
-Gelderland
-Herefordshire
-Leitrim
-Michoacan
-Coahuila
-Nunavut
-Syddanmark
-تهران
-Mizoram
-Ankara
-Şırnak
-Uttar Pradesh
-Oslo
-Longford
-Guerrero
-Kerry
-Pomoravlje
-Loir-et-Cher
-Pennsylvania
-Finnmark - Finnmárku
-North Banat
-Rasina
-Aragón
-Bor
-Tennessee
 Gisborne
-Morbihan
-Waikato
-Edirne
-West Bačka
-ایلام
-Arunachal Pradesh
-Päijät-Häme
-Tasman
-Santa Catarina
-Paraíba
-West Coast
-Overijssel
-Kentucky
-Ain
-Nièvre
-Maranhão
-Basel-Stadt
-Konya
-Šumadija
-Pyrénées-Atlantiques
-Volinska
-Çorum
-Dublin City
-Telangana
-Fribourg
-Nagaland
-Luzern
-South Australia
-Kahramanmaraş
-Rutland
-Punjab
-Alagoas
-زنجان
-Mato Grosso do Sul
-South Glamorgan
-Aube
-País Vasco
-Lot-et-Garonne
-Peć
-Maharashtra
-Ivano-Frankivska
-Comunidad Valenciana
-Nord-Trøndelag
-خراسان جنوبی
-La Rioja
-Northern Ostrobothnia
-Pernambuco
-Ille-et-Vilaine
-Queensland
-Meurthe-et-Moselle
-Muğla
-Alaska
-Lvivska
-County Tyrone
-Cavan
-Castilla y León
-Virginia
-Sakarya
-Piauí
-County Down
-Cataluña
-County Armagh
-Melilla
-Ticino
-Akershus
-Kildare
-Tabasco
-Vaucluse
-Vermont
-لرستان
-Troms - Romsa
-Wisconsin
-مرکزی
-Neuchâtel
-Hertfordshire
-Odeska
-Diyarbakır
-Drenthe
-South Dublin
-Basel-Landschaft
-Sachsen-Anhalt
-Alabama
-Sinaloa
-قم
-Aguascalientes
-Mecklenburg-Vorpommern
-Nišava
-Donegal
-Bas-Rhin
-Assam
-Niedersachsen
-Andaman and Nicobar Islands
-Hersonska
-Åland
-Rio Grande do Norte
-Northern Savonia
-Galicia
-Zhitomirska
-Malatya
-Sonora
-Isle of Wight
-South Karelia
-Aydın
-Tasmania
-Tamil Nadu
-Haute-Garonne
-West Yorkshire
-Lincolnshire
-Maryland
-Acre
-Canarias
-Luganska
-Thurgau
-Hmelnicka
-Hedmark
-Laois
-Moravica
-Ağrı
-Bahia
-Tripura
-Vest-Agder
-Gujarat
-Ardahan
-کرمان
-Telemark
-Ceará
-Missouri
-خوزستان
-Comunidad de Madrid
-Michigan
-Bilecik
-Castilla la Mancha
-Tlaxcala
-Creuse
-Çanakkale
-Pirkanmaa
 Fingal
-Thüringen
-Oklahoma
-Otago
-Alpes-de-Haute-Provence
-Bremen
-Haut-Rhin
-Cornwall
-Gers
-Karabük
-Región de Murcia
-Sivas
-Buckinghamshire
-Uusimaa
-Somme
-Powys
-Andhra Pradesh
-Canterbury
-کرمانشاه
-Kosovo
-Southern Savonia
-Nottinghamshire
-Chiapas
-Tyne and Wear
-Satakunta
-Minas Gerais
-Southern Ostrobothnia
-سمنان
-Nayarit
-Bayern
-Galway City
-مازندران
-Sergipe
-Savoie
-New Hampshire
-Friesland
-St. Gallen
-Dordogne
-Aksaray
-Offaly
-Nordland
-Aust-Agder
-Appenzell Ausserrhoden
-Distrito Federal
-Extremadura
-Washington
-Campeche
-New Brunswick
-Roscommon
-Fife
-West Virginia
-Avtonomna Respublika Krim
-Guanajuato
-Hakkâri
-Roraima
-Kirovogradska
-Tocantins
-Genève
-Baden-Württemberg
-Hauts-de-Seine
-Warwickshire
-Jalisco
-Bartın
-Quintana Roo
-West Glamorgan
-Valais
-Rajasthan
-Westmeath
-Limerick
-Sogn og Fjordane
-Wiltshire
-Kymenlaakso
-Hautes-Pyrénées
-British Columbia
-Strathclyde
-Bihar
-گلستان
-Haute-Loire
-قزوین
-Chhattisgarh
-Avon
-Kocaeli
-Berlin
-Sinop
-Gümüşhane
-Corrèze
-Aude
-San Luis Potosí
-Bouches-du-Rhône
-Vaud
+Québec
+Sachsen-Anhalt
 Jura
-Sikkim
-Devon
-Glarus
-Siirt
-Adana
-Tarn
-Norfolk
-Navarra
-Marlborough
-Borders
-South Banat
-Nuevo Leon
-Cantal
-Rio Grande do Sul
+South Dublin
+Kosovo
+Bas-Rhin
+ایلام
+Tayside
+Pčinja
+گیلان
+Sumska
+Seine-Maritime
+Nelson
+Hawke'S Bay
+Prizren
+Finnmark - Finnmárku
+Western Australia
+North Karelia
+Daman and Diu
+Rio de Janeiro
+کردستان
+Wicklow
+Mid Glamorgan
 Lothian
-New Jersey
+Otago
+Kahramanmaraş
+Louisiana
+اصفهان
+Kosovo-Pomoravlje
+Somerset
+Karabük
+Satakunta
+Hessen
+Lvivska
+Shropshire
+İstanbul
+Kosovska Mitrovica
+Oppland
+País Vasco
+Andaman and Nicobar Islands
+New Hampshire
+Manipur
+Tavastia Proper
+Rio Grande do Norte
+Texas
+South Bačka
+Yalova
+Leitrim
+Toplica
+Rio Grande do Sul
+Auckland
+Ardahan
+Michoacan
+Northern Savonia
+Bay of Plenty
+Calvados
+Hautes-Pyrénées
+Solothurn
+Veracruz
+Appenzell Ausserrhoden
+Kilis
+Adana
+آذربایجان غربی
+West Glamorgan
+Offaly
+Kırıkkale
+Van
+Genève
+Hersonska
+Santa Catarina
+Hawaii
+Balıkesir
+Oregon
+Louth
+Ivano-Frankivska
+County Londonderry
+Indiana
+Leicestershire
+Kymenlaakso
+Navarra
+Allier
+Lakshadweep
+Manitoba
+Pirot
+Siirt
+Mikolayivska
+Giresun
+Virginia
+Zonguldak
+New York
+Extremadura
+Carlow
+Noord-Brabant
+Rogaland
+Mecklenburg-Vorpommern
+Description
+Møre og Romsdal
+Nišava
+Tocantins
+Amapá
+Lancashire
+مرکزی
+Avtonomna Respublika Krim
+West Virginia
+Raška
+Morelos
+Basel-Landschaft
+Quintana Roo
+Odeska
+Podunavlje
+Åland
+Staffordshire
+Meghalaya
+Landes
+County Tyrone
+Nidwalden
+Pernambuco
+Región de Murcia
+West Coast
+Bursa
+Nord-Trøndelag
+Rutland
+Ticino
+لرستان
+Vermont
+Basel-Stadt
+Sinaloa
+Colorado
+Ternopilska
+Hedmark
+Nevşehir
+Côte-D'Or
+Çanakkale
+Southern Ostrobothnia
+Tlaxcala
+Norfolk
+Maharashtra
+Paraíba
+خراسان شمالی
+Kentucky
+Vaucluse
+Buskerud
+Nordland
+Campeche
+Colima
+Dyfed
+Ordu
+Poltavska
+South Australia
+Nunavut
+Islas Baleares
+South Yorkshire
+Kırklareli
+Gümüşhane
+County Antrim
+Jammu and Kashmir
+Chiapas
+İzmir
+Lincolnshire
+Bern
+Zürich
+Harkivska
+Niğde
+Florida
+Lapland
+Kolubara
+زنجان
+Rhône
+Nevada
+Aisne
+Waterford
+Gironde
+La Rioja
+کهگیلویه و بویراحمد
+Gloucestershire
+Herefordshire
+Loiret
+Val-D'Oise
+Berlin
+Zug
+Nayarit
+Fife
+Zacatecas
+Denizli
+Erzurum
+Bahia
+Ciudad de Mexico
+Mačva
+West Midlands
+Zakarpatska
+Antalya
+Bitlis
+کرمان
+بوشهر
+West Bačka
+Tipperary
+Assam
+Appenzell Innerrhoden
+Durham
+São Paulo
+Morbihan
+Afyonkarahisar
+Vestfold
+East Sussex
+Var
+Aargau
+North Dakota
+Powys
+Cambridgeshire
+Tennessee
+Niedersachsen
+Drenthe
+Sogn og Fjordane
+British Columbia
+Rasina
+Overijssel
+Haut-Rhin
+Oslo
+Acre
+Kocaeli
+Rondônia
+Brandenburg
+قم
+Paris
+Bedfordshire
+Cavan
+Isparta
+Cheshire
+Alagoas
+Limerick
+Dnipropetrovska
+Nottinghamshire
+Hmelnicka
+Bolu
+Vaud
+Derbyshire
+Idaho
+Kirovogradska
+Donecka
+San Luis Potosí
+Prince Edward Island
+Taranaki
+Sakarya
+Fribourg
+Arunachal Pradesh
+Ceará
+Graubünden
+Kildare
+Sligo
+Burdur
+Haute-Garonne
+Andhra Pradesh
+Saône-et-Loire
+Hauts-de-Seine
+Karnataka
+کرمانشاه
+Baja California Sur
+Aveyron
+Erzincan
+Illinois
+Roraima
+Eure
+Humberside
+Corse-du-Sud
+Somme
+North Bačka
+County Armagh
+Sinop
+Lozère
+خراسان رضوی
+Tripura
+Batman
+Essex
+Hérault
+Konya
+Wyoming
+Puducherry
+Artvin
+Aude
+Elazığ
+Schaffhausen
+Schwyz
+Zaporizka
+Madhya Pradesh
+Hidalgo
+Aydın
+Alabama
+Georgia
+West Yorkshire
+Loire-Atlantique
+Michigan
+Pyrénées-Orientales
+Jharkhand
+Central Finland
+Ağrı
+Laois
+Manche
+Roscommon
+Rize
+Minnesota
+Bouches-du-Rhône
+Srem
+Berkshire
+Ardèche
+Merseyside
+Meuse
+Aube
+Muş
+Goa
+خوزستان
+Arizona
+Gwynedd County
+اردبیل
+Missouri
+Piauí
+Westmeath
+South Dakota
+Haute-Vienne
+Hertfordshire
+Cleveland
+Osmaniye
+Mayotte
+Territoire De Belfort
+Maryland
+Finistère
+Essonne
+Montana
+Ain
+Tekirdağ
+New Mexico
+Kansas
+Uşak
